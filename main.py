@@ -121,5 +121,4 @@ def decryptRailFence(cipher, key):
 # Driver code
 print(encryptRailFence("matahari", 3))
 print(decryptRailFence("mhaaaitr", 3))
-# This code is contributed
-# by Pratik Somwanshi
+
